@@ -1,0 +1,10 @@
+$kind: http-request
+url: "{{SERVER_URL}}:{{PORT}}/auth/login"
+method: POST
+body:
+  type: json
+  content: |-
+    {
+        "userPhoneNumber":"987269406"
+    }
+order: 3175171490695793

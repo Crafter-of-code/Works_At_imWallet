@@ -1,0 +1,12 @@
+export const server_url = 'http://localhost:8082';
+export const SERVER_PUBLIC_KEY = `-----BEGIN PUBLIC KEY-----
+MIIBojANBgkqhkiG9w0BAQEFAAOCAY8AMIIBigKCAYEAm8xcPCaQdqjeGN29dksq
+J/5lFTC3G8CDHHJpLuXyBqD4+6wUo3odd/gHjXm1Za4hYg8NxHG8KEN9Pwudnrsf
+T5YJshQ9htqUURQ4Tgu9EpsIau4jhJlgClNpP7DykTwE6+rK2LLBeEVB2s6QDTMw
+Uf/seg+29VxyUrUk2CPKgOzylzRWkip9jRj+DXfNr9U2HyHrIScCNcvHVqbuWsf2
+7j31MRzglzFkQYhnLapu+tnJQkTeQnir0lY2jGmlj+a9EIsiGzqG4b82uUVRd+TE
+ZY8TqwwSdavIMnery13CKOEE6sxWPc2k6aP9MRCwBrPh7NJbh1PQ/y5xAdriCmno
+PEXjI8U+U5eRoyD6LlVf4UM851KPto2uWkuMmC+osNtR8ScYf8OyD3FpqFqHjfRN
+1BAKaIJvF5/DzOhZjX6Twh3bhJgmBctURHTOPgXwjesGtC7/XgSF33/mpQjkFPnH
+efXLA7+lauuGK8smcXBPaVsqedIvaLXMgDhpVaZZVgSTAgMBAAE=
+-----END PUBLIC KEY-----`;

@@ -1,0 +1,12 @@
+$kind: http-request
+url: "{{SERVER_URL}}:{{PORT}}/auth/register"
+method: POST
+body:
+  type: json
+  content: |-
+    {
+        "userName":"uzair khan",
+        "userEmail":"mduzair@google.com",
+        "userPhoneNumber":"9717166764"
+    }
+order: 1790336102340

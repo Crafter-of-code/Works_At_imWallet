@@ -1,0 +1,6 @@
+name: Env vriable
+values:
+  - key: PORT
+    value: '8080'
+  - key: SERVER_URL
+    value: 'http://localhost'
